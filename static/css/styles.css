@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body{
+    color: #707070;
+    background: #f9f9f9;
+}
+
+.principal{
+    background: black;
+}
+
+
+/* Header y navbar */
+
+
+/* Slider */
+
+.pic{
+    height: 100vh; 
+    opacity: 0.5;
+}
+
+.carousel-caption {
+    top: 40%;
+}
+.carousel-caption h1{
+    font-weight: 600;
+    font-size: 4em;
+}
+.carousel-caption p{
+    font-weight: 200;
+    font-size: 1.2em;
+}
+
+.iniciarSesion{
+    padding: 2%;
+    border-radius: 5px;
+    box-shadow: 0 10px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.iniciarSesion h1{
+    font-size: 1.8rem;
+}
+
+
+
+
+/* - Funcionalidades */
+
+.funcionalidad{
+    background: white;
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.funcionalidad h2{
+    font-size: 2rem;
+    font-weight: 400;
+}
+
